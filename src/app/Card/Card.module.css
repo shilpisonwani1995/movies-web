@@ -1,0 +1,21 @@
+.container {
+  width: 19%;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.3);
+  /* margin: 15px 5px; */
+  /* margin-bottom: 30px; */
+  background-color: #1d2830;
+  margin: 25px auto;
+}
+.image {
+  width: 100%;
+}
+.image img {
+  width: 100%;
+  height: 280px;
+}
+.Title {
+  color: #fff;
+  text-align: center;
+  font-weight: 500;
+  font-size: 12px;
+}
